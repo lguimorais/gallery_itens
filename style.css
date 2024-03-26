@@ -19,9 +19,11 @@ body {
     opacity: 0;
     transition: 0.3s;
 }
-.description h3 {
+.description h3 a{
     font-size: 30px;
     margin: 0;
+    text-decoration: none;
+    color:white;
 }
 .description p {
     font-size: 20px;
